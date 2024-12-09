@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-three/fiber": "^8.17.10",
+    "@react-three/xr": "^6.4.12",
     "@types/three": "^0.170.0",
     "install": "^0.13.0",
     "npm": "^10.9.2",
