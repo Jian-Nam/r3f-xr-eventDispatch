@@ -27,7 +27,6 @@ export default function App() {
     grabbingPointerId = null;
     const target = e.target as Element;
     target.setPointerCapture(e.pointerId);
-    e.stopPropagation();
   }, []);
   return (
     <>
